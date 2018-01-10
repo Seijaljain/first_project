@@ -1,0 +1,80 @@
+.New-body {
+  text-align: center;
+background:
+radial-gradient(black 15%, transparent 16%) 0 0,
+radial-gradient(black 15%, transparent 16%) 8px 8px,
+radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px,
+radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+background-color:#282828;
+background-size:16px 16px;
+}
+
+.New-header {
+ background:url(/are.png) no-repeat;
+  height: 180px;
+  padding: 20px;
+  color: black;
+  
+}
+
+.New-logo {
+  height: 120px;
+   padding: 6px;
+   text-align: center;
+   display: block;
+  margin: auto;
+ 
+}
+
+.New-button1 {
+     text-align: center;
+   padding: 14px 85px;
+font-size: 18px;
+background-color: #ffad33;
+border-radius: 8px;
+width: 250px;
+  cursor: pointer;
+   margin: 4px 2px;
+   float: left;
+}
+
+.New-button2 {
+     text-align: center;
+   padding: 14px 85px;
+font-size: 18px;
+background-color: #ffad33;
+border-radius: 8px;
+width: 250px;
+  cursor: pointer;
+   margin: 4px 2px;
+margin-right: 60px; 
+  margin-top: 5px;
+    
+}
+
+.New-button3 {
+     text-align: center;
+   padding: 14px 85px;
+font-size: 18px;
+background-color: #ffad33;
+border-radius: 8px;
+width: 250px;
+  cursor: pointer;
+   margin: 4px 2px;
+  float: right;
+   
+}
+.new-img{
+   margin-top: 80px;
+}
+
+.new-display__none{
+    display: none;
+}
+
+.new-display__block{
+    display: block;
+    margin-top: 100px;
+    
+}
+
